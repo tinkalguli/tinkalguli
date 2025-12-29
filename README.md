@@ -16,3 +16,6 @@
 <a href="mailto:tinkalmunu@gmail.com" target="_blank">
   <img align="left" alt="Email" width="22px" src="https://img.icons8.com/ios-filled/50/fa314a/email-open.png">
 </a>
+<a href="https://www.linkedin.com/in/tinkal-deka-46a4071a3/" target="_blank">
+  <img align="left" alt="Email" width="22px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">
+</a>
