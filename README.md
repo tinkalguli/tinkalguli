@@ -10,7 +10,7 @@
 ![Codewars](https://www.codewars.com/users/tinkalguli/badges/large)
 
 ### 🤝 Connect with me
-<a href="https://twitter.com/tinkal_deka" target="_blank">
+<a href="https://x.com/tinkal_deka" target="_blank">
   <img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/twitter.png">
 </a>
 <a href="mailto:tinkalmunu@gmail.com" target="_blank">
