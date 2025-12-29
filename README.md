@@ -1,14 +1,18 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning MERN stack
-- 💬 Ask me about web development
+💻 Software Engineer | Rails • PostgreSQL • React • Vue  
+⚙️ Building scalable, production-ready web applications  
+🔄 Experience with system migrations & large codebases  
+🐛 Strong at debugging, UI improvements & performance tuning  
+🚀 Curious learner, problem solver & builder  
+📍 India | 🌍 Remote-friendly  
 
-![codewars](https://www.codewars.com/users/tinkalguli/badges/large)
+![Codewars](https://www.codewars.com/users/tinkalguli/badges/large)
 
-### Connect with me
+### 🤝 Connect with me
 <a href="https://twitter.com/tinkal_deka" target="_blank">
-  <img align="left" alt="twitter icon" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/twitter.png">
+  <img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/twitter.png">
 </a>
 <a href="mailto:tinkalmunu@gmail.com" target="_blank">
-  <img align="left" alt="email icon" width="22px" src="https://img.icons8.com/ios-filled/50/fa314a/email-open.png">
+  <img align="left" alt="Email" width="22px" src="https://img.icons8.com/ios-filled/50/fa314a/email-open.png">
 </a>
